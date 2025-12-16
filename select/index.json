@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "stay tune",
+  "base_artist": "7co",
+  "createdAt": "2025-12-16T13:38:53.476632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Miracle STAY TUNE!",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/01_Miracle_STAY_TUNE!_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミラクル STAY TUNE!",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/02_ミラクル_STAY_TUNE!_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stay Tune",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/03_Stay_Tune_Suchmos.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stay Tune",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/04_Stay_Tune_Suchmos.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stay Tune",
+      "artist": "Thug Life",
+      "has_synced": true,
+      "path": "select/05_Stay_Tune_Thug_Life.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミラクル STAY TUNE!",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/06_ミラクル_STAY_TUNE!_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "stay tune",
+      "artist": "suchmos",
+      "has_synced": true,
+      "path": "select/07_stay_tune_suchmos.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "STAY TUNE (Live at YOKOHAMA STADIUM 2019.09.08)",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/08_STAY_TUNE_(Live_at_YOKOHAMA_STADIUM_2019.09.08)_Suchmos.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "STAY TUNE (feat. Hikari)",
+      "artist": "Tokimeki Records",
+      "has_synced": true,
+      "path": "select/09_STAY_TUNE_(feat._Hikari)_Tokimeki_Records.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "STAY TUNE (feat. ひかり)",
+      "artist": "Tokimeki Records",
+      "has_synced": true,
+      "path": "select/10_STAY_TUNE_(feat._ひかり)_Tokimeki_Records.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "STAY TUNE",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/11_STAY_TUNE_Suchmos.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Miracle STAY TUNE!",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/12_Miracle_STAY_TUNE!_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "STAY TUNE!!",
+      "artist": "Shonen Kamikaze",
+      "has_synced": false,
+      "path": "select/13_STAY_TUNE!!_Shonen_Kamikaze.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "stay tune",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/pl_01_stay_tune_7co.txt"
+    }
+  ]
+}
